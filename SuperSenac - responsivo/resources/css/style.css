@@ -281,6 +281,7 @@ div.product .product-center {
 }
 
 div.product-center .product-name {
+    height: 85px;
     font-weight: 600;
     padding: 5px;
     font-size: 18px;
